@@ -1,0 +1,9 @@
+body{
+  font-family: inter_semi_bold,fallback-inter_semi_bold,Arial,sans-serif;
+  background-color: #f1f3f6;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}  
